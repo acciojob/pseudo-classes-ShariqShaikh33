@@ -13,6 +13,7 @@ section :nth-child(2){
 section :last-child{
 	color: red;
 }
+
 li{
 	background-color: gray;
 	width: 50%;
