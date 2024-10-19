@@ -3,14 +3,14 @@
 	background-color: rgb(135, 206, 235);
 }
 
-main :first-child{
+article :first-child{
 	background-color: black;
 	color: white;
 }
-main :nth-child(2){
+article :nth-child(2){
 	color: black;
 }
-main :last-child{
+article :last-child{
 	color: red;
 }
 
